@@ -1,7 +1,13 @@
 # ELECTRONICS
 
 ## Intro notes
-If you have 'Markdown All in One' VS Code extension, do Ctrl + Shift + V to preview in markdown
+* If you have 'Markdown All in One' VS Code extension, do Ctrl + Shift + V to preview in markdown
+* 3 golden words: MADE. IN. JAPAN.
+
+## Tools to get:
+* Solder pen/gun
+* Vintage screwdrivers
+* Made in USA drills
 
 ## Computers
 * Old Desktop designed to run with windows 98
@@ -53,3 +59,13 @@ If you have 'Markdown All in One' VS Code extension, do Ctrl + Shift + V to prev
 	* Boston tapes (can't seem to find good condition ones) [NJ]
 * Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
+
+## Quadraphonic
+* Right now we have 1 good reciever, and 1 amp that needs a little bit of work.
+* Pretty much any good 8 track decks, capable amps/recievers, and turntable equipment
+* Any and all vinyl, simply because they are rare. But here is a 'get' list:
+	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
+* Resorces (links, books, etc):
+	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
+	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
+	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)](https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
