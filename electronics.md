@@ -35,6 +35,8 @@
 	* PRIORITY: Brand new VHS tapes. Pretty much any, even if the content isn't interesting
 	* ELO out of the blue concert, opened (already have brand new) (NJ)
 	* South Park Season 1 (NJ)
+	* Star Trek TOS episodic tapes. Episodes left to get: (populate here when ready)
+	* Star Trek original VHS movie releases. Left to get: I, II, V, VI
 
 ## Cassette(audio) and tape decks
 * Good brands to prioritize:
