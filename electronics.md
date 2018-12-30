@@ -51,23 +51,29 @@
 	* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
 
 ## 8 track and decks
+* BLANK TAPES
 * Good brands to prioritize:
 	* Pioneer
 	* Sansui
 	* Marantz
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
-* 8 tracks to get (initals on preferences, priorities at the top):
+* Stereo 8 tracks to get (initals on preferences, priorities at the top):
 	* Boston tapes (can't seem to find good condition ones) [NJ]
-* Resources (links, books, etc):
+* Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
 
 ## Quadraphonic
 * Right now we have 1 good reciever, and 1 amp that needs a little bit of work.
 * Pretty much any good 8 track decks, capable amps/recievers, and turntable equipment
-* Any and all vinyl, simply because they are rare. But here is a 'get' list:
+* 8 TRACK get list:
+	* BTO II
+	* BTO - Not Fragile
+	* Pink Floyd - Dark Side Of The Moon [NJ]  (very sought after and rare, so not likely to get without a lot of money and time. Best to get a quad vinyl and record onto 8 track)
+* VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
-* Resorces (links, books, etc):
+* Resorces (good links, books, etc):
 	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
 	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)](https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
+	* [Master list of all known quad 8 tracks](http://www.8-track-shack.com/blog/quadraphonic-8-track-tape-master-list-with-price-guide/)
