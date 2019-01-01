@@ -9,11 +9,17 @@
 * Vintage screwdrivers
 * Made in USA drills
 
-## Computers
+## Computer Projects
 * Old Desktop designed to run with windows 98
 	* "high end" graphics
 	* 3.5 in floppy
 	* 5.25 in floppy
+	* need tower of size "AT"
+* IBM 510CS laptop
+	* broken screen
+	* needs battery
+* Pocket computer project?
+	* Sharp brand, Mobilon, HC-4500 possible model
 
 ## PC Games
 * DOOM
