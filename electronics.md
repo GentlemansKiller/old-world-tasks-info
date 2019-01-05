@@ -28,6 +28,7 @@
 ## Nitendo 64
 * Translucent Green and Purple consoles and controllers
 * Consoles, ofc
+* Paks (controller pak, rumble pak)
 
 
 ## VCR/VHS
@@ -52,6 +53,7 @@
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Cassettes to get (initals on preferences, priorities at the top):
+    * Kansas albums (especiall Point of Know Return) [NJ]
 	* ELO albums (Out of the Blue, Discovery, Time) [NJ]
 	* Boston, even tho we have 2. Hard to find good ones. [NJ]
 	* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
@@ -65,6 +67,7 @@
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Stereo 8 tracks to get (initals on preferences, priorities at the top):
+    * Kansas - Point of Know Return, Leftoverture
 	* Boston tapes (can't seem to find good condition ones) [NJ]
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
@@ -75,6 +78,7 @@
 * 8 TRACK get list:
 	* BTO II
 	* BTO - Not Fragile
+	* Grand Funk Railroad - Shine On
 	* Pink Floyd - Dark Side Of The Moon [NJ]  (very sought after and rare, so not likely to get without a lot of money and time. Best to get a quad vinyl and record onto 8 track)
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
