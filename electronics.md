@@ -8,6 +8,8 @@
 * Solder pen/gun
 * Vintage screwdrivers
 * Made in USA drills
+* Circuit board cleaner
+* Capacitors
 
 ## Computer Projects
 * Old Desktop designed to run with windows 98
@@ -29,6 +31,10 @@
 * Translucent Green and Purple consoles and controllers
 * Consoles, ofc
 
+## Cameras
+* A small camcorder that takes VHS-C
+* Large VHS camcorder from the 80s (another Hitachi?)
+* Disk film for little Kodak cameras EJ and NJ have
 
 ## VCR/VHS
 ### VCRs are a priority one. Get as many as possible, prioritizing better brands/clean ones
@@ -81,5 +87,5 @@
 * Resorces (good links, books, etc):
 	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
-	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)](https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
+	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)] (https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
 	* [Master list of all known quad 8 tracks](http://www.8-track-shack.com/blog/quadraphonic-8-track-tape-master-list-with-price-guide/)
