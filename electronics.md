@@ -48,8 +48,9 @@
 	* PRIORITY: Brand new VHS tapes. Pretty much any, even if the content isn't interesting
 	* ELO out of the blue concert, opened (already have brand new) (NJ)
 	* South Park Season 1 (NJ)
-	* Star Trek TOS episodic tapes. Episodes left to get: (populate here when ready)
-	* Star Trek original VHS movie releases. Left to get: I, II, V, VI
+	* Star Trek Original Series episodic tapes. Episodes left to get: (populate here when ready)
+	* Star Trek original VHS movie releases. Left to get: I, V, VI
+	* Star Trek Next Generation episodic tapes
 
 ## Cassette(audio) and tape decks
 * Good brands to prioritize:
@@ -63,6 +64,8 @@
 	* ELO albums (Out of the Blue, Discovery, Time) [NJ]
 	* Boston, even tho we have 2. Hard to find good ones. [NJ]
 	* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
+	* Styx band [NJ]
+	* BTO [NJ]
 
 ## 8 track and decks
 * BLANK TAPES
@@ -73,9 +76,11 @@
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Stereo 8 tracks to get (initals on preferences, priorities at the top):
-    * Kansas - Point of Know Return, Leftoverture
+    * Kansas - Point of Know Return, Leftoverture [NJ]
     * Styx
 	* Boston tapes (can't seem to find good condition ones) [NJ]
+	* ELO - New World Record [NJ]
+	* BTO first 3 albums [NJ]
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
 
