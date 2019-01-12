@@ -111,3 +111,6 @@
   * Pioneer QA-8000A Receiver
   * Pioneer QA-800A Amplifier
   * Sansui units (any I guess?)
+
+## Misc.
+* FM Transmittor from the 80s. Plug the 3.5mm into walkman or somesuch, and the FM transmittor on the other end will prodcast to your FM reciever.
