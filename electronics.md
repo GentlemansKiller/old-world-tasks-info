@@ -20,6 +20,10 @@
 * vise grips
 * set of qtr and 3/8 drives sockets ratchets.
 
+## Video
+* Look for more tube TVs. Analog TVs. Maybe try to find a nice 1960s black and white TV as well. The older the better. Collect as many as possible
+* Tube computer monitors. For Windows98 dekstop project as well. Preferably ones from before the year 2000
+
 ## Computer Projects
 * Old Desktop designed to run with windows 98
 	* "high end" graphics
