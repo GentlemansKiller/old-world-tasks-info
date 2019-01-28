@@ -10,6 +10,15 @@
 * Made in USA drills
 * Circuit board cleaner
 * Capacitors
+* wire nuts
+* electricians tape
+* wire connectors\crimpers
+* speaker wire
+* silver solder
+* regular pliers and needle nose pliers
+* wire cutters
+* vise grips
+* set of qtr and 3/8 drives sockets ratchets.
 
 ## Computer Projects
 * Old Desktop designed to run with windows 98
@@ -52,9 +61,6 @@
 	* Star Trek original VHS movie releases. Left to get: I, V, VI
 	* Star Trek Next Generation episodic tapes
 
-## Amplifiers/Recievers
-* Jensen A220 Car Amp (100w/channel)
-
 ## Cassette(audio) and tape decks
 * Good brands to prioritize:
 	* Pioneer
@@ -72,7 +78,7 @@
 
 ## 8 track and decks
 * BLANK TAPES
-* Good brands to prioritize (decks):
+* Good brands to prioritize:
 	* Pioneer
 	* Sansui
 	* Marantz
@@ -80,17 +86,12 @@
 	* Panasonic (middle of the road but still good)
 * Stereo 8 tracks to get (initals on preferences, priorities at the top):
     * Kansas - Point of Know Return, Leftoverture [NJ]
+    * Styx
 	* Boston tapes (can't seem to find good condition ones) [NJ]
 	* ELO - New World Record [NJ]
 	* BTO first 3 albums [NJ]
-	* Styx
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
-
-## Vinyl/Turntable
-* Decks:
-  * Dual 500 series
-  * Pioneer PL-50
 
 ## Quadraphonic
 * Right now we have 1 good reciever, and 1 amp that needs a little bit of work.
@@ -107,10 +108,3 @@
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
 	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)] (https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
 	* [Master list of all known quad 8 tracks](http://www.8-track-shack.com/blog/quadraphonic-8-track-tape-master-list-with-price-guide/)
-* Amps/Recievers:
-  * Pioneer QA-8000A Receiver
-  * Pioneer QA-800A Amplifier
-  * Sansui units (any I guess?)
-
-## Misc.
-* FM Transmittor from the 80s. Plug the 3.5mm into walkman or somesuch, and the FM transmittor on the other end will prodcast to your FM reciever.
