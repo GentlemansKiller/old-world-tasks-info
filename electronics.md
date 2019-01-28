@@ -98,7 +98,8 @@
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
 
 ## Quadraphonic
-* Right now we have 1 good reciever, and 1 amp that needs a little bit of work.
+* Right now we have 1 good reciever, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
+* Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
 * Pretty much any good 8 track decks, capable amps/recievers, and turntable equipment
 * 8 TRACK get list:
 	* BTO II
