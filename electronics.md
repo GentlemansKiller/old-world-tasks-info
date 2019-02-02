@@ -36,6 +36,12 @@
 * Pocket computer project?
 	* Sharp brand, Mobilon, HC-4500 possible model
 
+## PC Software
+  * Encarta Encyclopedia
+  * Micorsoft Publisher
+  * Microsoft Bookshelf
+  * Microsoft Office 95/98
+
 ## PC Games
 * DOOM
 * Valve Orange Box
@@ -79,6 +85,10 @@
 	* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
 	* Styx band [NJ]
 	* BTO [NJ]
+	* Blue Oyster Cult
+* Cassetes to bootleg:
+  * Windows96 - One Hundred Mornings
+  * Macintosh Plus - Floral Shoppe
 
 ## 8 track and decks
 * BLANK TAPES
