@@ -108,6 +108,17 @@
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
 
+## Vinyl/LP and Turntables
+* Turntables:
+  * Dual 1200 series
+  * Dual 500 series (more so than others)
+* Vinyls to get:
+  * Boston - Boston
+  * The Whispers - Imagination (1980)
+  * Com Truise - In Decay (modern) [NJ]
+  * Com Truise - Iteration, other color options (modern) [NJ]
+  * Kansas - Leftoverture
+
 ## Quadraphonic
 * Right now we have 1 good reciever, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
@@ -119,6 +130,7 @@
 	* Pink Floyd - Dark Side Of The Moon [NJ]  (very sought after and rare, so not likely to get without a lot of money and time. Best to get a quad vinyl and record onto 8 track)
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
+	* Pink Floyd albums
 * Resorces (good links, books, etc):
 	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
