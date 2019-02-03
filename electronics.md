@@ -89,6 +89,7 @@
 * Cassetes to bootleg:
   * Windows96 - One Hundred Mornings
   * Macintosh Plus - Floral Shoppe
+  * Saint Pepsi - Hit Vibes
 
 ## 8 track and decks
 * BLANK TAPES
