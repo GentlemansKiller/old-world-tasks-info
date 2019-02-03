@@ -115,6 +115,7 @@
 * Vinyls to get:
   * Boston - Boston
   * The Whispers - Imagination (1980)
+  * The Whispers - some kind of Greatest Hits album would be good [NJ]
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
   * Kansas - Leftoverture
