@@ -3,6 +3,7 @@
 ## Intro notes
 * If you have 'Markdown All in One' VS Code extension, do Ctrl + Shift + V to preview in markdown
 * 3 golden words: MADE. IN. JAPAN.
+* Initials on preferences, priorities at the top
 
 ## Tools to get:
 * Solder pen/gun
@@ -22,7 +23,7 @@
 
 ## Video
 * Look for more tube TVs. Analog TVs. Maybe try to find a nice 1960s black and white TV as well. The older the better. Collect as many as possible
-* Tube computer monitors. For Windows98 dekstop project as well. Preferably ones from before the year 2000
+* Tube computer monitors. For Windows98 desktop project as well. Preferably ones from before the year 2000
 
 ## Computer Projects
 * Old Desktop designed to run with windows 98
@@ -38,7 +39,7 @@
 
 ## PC Software
   * Encarta Encyclopedia
-  * Micorsoft Publisher
+  * Microsoft Publisher
   * Microsoft Bookshelf
   * Microsoft Office 95/98
   * Visual Basic 5/6
@@ -47,7 +48,7 @@
 * DOOM
 * Valve Orange Box
 
-## Nitendo 64
+## Nintendo 64
 * Translucent Green and Purple consoles and controllers
 * Consoles, ofc
 * Paks (controller pak, rumble pak)
@@ -64,7 +65,7 @@
 	* Emerson (meh, cheap)
 	* Panasonic
 	* Pioneer? (look up if they ever made any)
-* Tapes to get (initals on preferences, priorities at the top):
+* Tapes to get:
 	* PRIORITY: Brand new VHS tapes. Pretty much any, even if the content isn't interesting
 	* ELO out of the blue concert, opened (already have brand new) (NJ)
 	* South Park Season 1 (NJ)
@@ -79,15 +80,15 @@
 	* Marantz
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
-* Cassettes to get (initals on preferences, priorities at the top):
-    * Kansas albums (especiall Point of Know Return) [NJ]
+* Cassettes to get:
+    * Kansas albums (especially Point of Know Return) [NJ]
 	* ELO albums (Out of the Blue, Discovery, Time) [NJ]
 	* Boston, even tho we have 2. Hard to find good ones. [NJ]
 	* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
 	* Styx band [NJ]
 	* BTO [NJ]
 	* Blue Oyster Cult
-* Cassetes to bootleg:
+* Cassettes to bootleg:
   * Windows96 - One Hundred Mornings
   * Macintosh Plus - Floral Shoppe
   * Saint Pepsi - Hit Vibes
@@ -100,7 +101,7 @@
 	* Marantz
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
-* Stereo 8 tracks to get (initals on preferences, priorities at the top):
+* Stereo 8 tracks to get:
     * Kansas - Point of Know Return, Leftoverture [NJ]
     * Styx
 	* Boston tapes (can't seem to find good condition ones) [NJ]
@@ -123,9 +124,9 @@
   * Kansas - Leftoverture
 
 ## Quadraphonic
-* Right now we have 1 good reciever, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
+* Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
-* Pretty much any good 8 track decks, capable amps/recievers, and turntable equipment
+* Pretty much any good 8 track decks, capable amps/receivers, and turntable equipment
 * 8 TRACK get list:
 	* BTO II
 	* BTO - Not Fragile
@@ -134,7 +135,7 @@
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
 	* Pink Floyd albums
-* Resorces (good links, books, etc):
+* Resources (good links, books, etc):
 	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
 	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)] (https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
