@@ -41,6 +41,7 @@
   * Micorsoft Publisher
   * Microsoft Bookshelf
   * Microsoft Office 95/98
+  * Visual Basic 5/6
 
 ## PC Games
 * DOOM
