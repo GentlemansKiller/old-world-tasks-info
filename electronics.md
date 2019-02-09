@@ -88,6 +88,7 @@
 	* Styx band [NJ]
 	* BTO [NJ]
 	* Blue Oyster Cult
+	* Aerosmith - first three albums, especially Toys In The Attic (1975)
 * Cassettes to bootleg:
   * Windows96 - One Hundred Mornings
   * Macintosh Plus - Floral Shoppe
@@ -107,6 +108,8 @@
 	* Boston tapes (can't seem to find good condition ones) [NJ]
 	* ELO - New World Record [NJ]
 	* BTO first 3 albums [NJ]
+	* Blue Oyster Cult 70s albums
+	* Aerosmith - first three albums, especially Toys In The Attic (1975)
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
 	* [My go-to site](https://sites.google.com/site/8trackrepair/getting-started)
