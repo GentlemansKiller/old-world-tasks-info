@@ -107,6 +107,7 @@
 	* BTO first 3 albums [NJ]
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
+	* [My go-to site](https://sites.google.com/site/8trackrepair/getting-started)
 
 ## Vinyl/LP and Turntables
 * Turntables:
