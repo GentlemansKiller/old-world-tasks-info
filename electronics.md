@@ -129,6 +129,7 @@
   * Com Truise - Iteration, other color options (modern) [NJ]
   * Kansas - Leftoverture
   * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
+  * ELO - Out of the Blue -  blue colored vinyl version [NJ]
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
