@@ -81,18 +81,26 @@
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Cassettes to get:
-    * Kansas albums (especially Point of Know Return) [NJ]
-	* ELO albums (Out of the Blue, Discovery, Time) [NJ]
-	* Boston, even tho we have 2. Hard to find good ones. [NJ]
-	* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
-	* Styx band [NJ]
-	* BTO [NJ]
-	* Blue Oyster Cult
-	* Aerosmith - first three albums, especially Toys In The Attic (1975)
+    * Boston - Third Stage
+    * BTO first 3 albums [NJ]
+    * ELO albums (Out of the Blue, Discovery, Time) [NJ]
+    * Blue Oyster Cult - Cult Classic (90s cover/compilation album of greatest hits)
 * Cassettes to bootleg:
   * Windows96 - One Hundred Mornings
   * Macintosh Plus - Floral Shoppe
   * Saint Pepsi - Hit Vibes
+  
+## Tape Albums to get (8 track and/or cassette both)
+* Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
+* Styx [NJ]
+* BTO [NJ]
+* Blue Oyster Cult early 70s albums
+* Aerosmith - first three albums, especially Toys In The Attic (1975)
+* Nazareth Hair of the Dog (good 8 track seems hard to find, there's a NM cassette on discogs for cheap)
+* Kansas - Point of Know Return, Leftoverture [NJ]
+* Styx
+* Aerosmith - first three albums, especially Toys In The Attic (1975)
+* Doobie Brothers albums (70s)
 
 ## 8 track and decks
 * BLANK TAPES
@@ -103,13 +111,8 @@
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Stereo 8 tracks to get:
-    * Kansas - Point of Know Return, Leftoverture [NJ]
-    * Styx
-	* Boston tapes (can't seem to find good condition ones) [NJ]
-	* ELO - New World Record [NJ]
-	* BTO first 3 albums [NJ]
-	* Blue Oyster Cult 70s albums
-	* Aerosmith - first three albums, especially Toys In The Attic (1975)
+    * Boston - Boston [NJ] (high priority)
+    * ELO - New World Record [NJ]
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
 	* [My go-to site](https://sites.google.com/site/8trackrepair/getting-started)
@@ -125,6 +128,7 @@
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
   * Kansas - Leftoverture
+  * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
