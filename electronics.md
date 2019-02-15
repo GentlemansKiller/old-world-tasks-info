@@ -136,10 +136,7 @@
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
 * Pretty much any good 8 track decks, capable amps/receivers, and turntable equipment
 * 8 TRACK get list:
-	* BTO II
-	* BTO - Not Fragile
 	* Grand Funk Railroad - Shine On
-	* Pink Floyd - Dark Side Of The Moon [NJ]  (very sought after and rare, so not likely to get without a lot of money and time. Best to get a quad vinyl and record onto 8 track)
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
 	* Pink Floyd albums
