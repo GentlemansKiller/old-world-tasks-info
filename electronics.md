@@ -101,6 +101,8 @@
 * Styx
 * Aerosmith - first three albums, especially Toys In The Attic (1975)
 * Doobie Brothers albums (70s)
+* Peter Frampton Live
+* Head East - Flat as a Pankcake
 
 ## 8 track and decks
 * BLANK TAPES
