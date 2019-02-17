@@ -144,9 +144,10 @@
 	* Grand Funk Railroad - Shine On
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
-	* Pink Floyd albums
+	* Pink Floyd albums other than Dark Side (Wish You Were Here, especially) [NJ]
 * Resources (good links, books, etc):
 	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
 	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)] (https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
 	* [Master list of all known quad 8 tracks](http://www.8-track-shack.com/blog/quadraphonic-8-track-tape-master-list-with-price-guide/)
+	* [Really good article about difference between matrixed and discrete version of Dark Side tape, and quad tapes in general](https://www.quadraphonicquad.com/QQ-PFQ.htm)
