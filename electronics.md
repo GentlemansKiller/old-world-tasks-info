@@ -127,11 +127,14 @@
   * Boston - Boston
   * The Whispers - Imagination (1980)
   * The Whispers - some kind of Greatest Hits album would be good [NJ]
-  * Com Truise - In Decay (modern) [NJ]
-  * Com Truise - Iteration, other color options (modern) [NJ]
   * Kansas - Leftoverture
   * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
   * ELO - Out of the Blue -  blue colored vinyl version [NJ]
+  * The Mahavishnu Orchestra - Inner Mounting Flame
+* Modern Vinyls:
+  * Com Truise - In Decay (modern) [NJ]
+  * Com Truise - Iteration, other color options (modern) [NJ]
+  * Royksopp - The Understanding album and The Inevitable End album
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
