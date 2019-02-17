@@ -85,24 +85,23 @@
     * BTO first 3 albums [NJ]
     * ELO albums (Out of the Blue, Discovery, Time) [NJ]
     * Blue Oyster Cult - Cult Classic (90s cover/compilation album of greatest hits)
+    * Nazareth Hair of the Dog
 * Cassettes to bootleg:
   * Windows96 - One Hundred Mornings
-  * Macintosh Plus - Floral Shoppe
+  * Macintosh Plus - Floral Shoppe [good reference vid](https://www.youtube.com/watch?v=ZPfWbXFfXxw)
   * Saint Pepsi - Hit Vibes
   
 ## Tape Albums to get (8 track and/or cassette both)
 * Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
-* Styx [NJ]
-* BTO [NJ]
 * Blue Oyster Cult early 70s albums
 * Aerosmith - first three albums, especially Toys In The Attic (1975)
-* Nazareth Hair of the Dog (good 8 track seems hard to find, there's a NM cassette on discogs for cheap)
 * Kansas - Point of Know Return, Leftoverture [NJ]
 * Styx
 * Aerosmith - first three albums, especially Toys In The Attic (1975)
 * Doobie Brothers albums (70s)
 * Peter Frampton Live
 * Head East - Flat as a Pankcake
+* Alan Parsons Project - 70's albums
 
 ## 8 track and decks
 * BLANK TAPES
@@ -131,6 +130,7 @@
   * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
   * ELO - Out of the Blue -  blue colored vinyl version [NJ]
   * The Mahavishnu Orchestra - Inner Mounting Flame
+  * Alan Parsons Project - 70's albums
 * Modern Vinyls:
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
