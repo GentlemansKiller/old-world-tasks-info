@@ -99,7 +99,7 @@
 * Styx
 * Aerosmith - first three albums, especially Toys In The Attic (1975)
 * Doobie Brothers albums (70s)
-* Peter Frampton Live
+* Peter Frampton - Frampton Comes Alive! (70s)
 * Head East - Flat as a Pankcake
 * Alan Parsons Project - 70's albums
 
