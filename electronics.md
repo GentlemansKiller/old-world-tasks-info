@@ -132,6 +132,7 @@
   * ELO - Out of the Blue -  blue colored vinyl version [NJ]
   * The Mahavishnu Orchestra - Inner Mounting Flame
   * Alan Parsons Project - 70's albums
+  * Blue Oyster Cult 70s albums (VIP)
 * Modern Vinyls:
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
