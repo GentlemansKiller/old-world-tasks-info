@@ -141,7 +141,10 @@
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
 * Pretty much any good 8 track decks, capable amps/receivers, and turntable equipment
 * 8 TRACK get list:
-	* Grand Funk Railroad - Shine On
+	* Grand Funk Railroad albums
+	* The Guess Who Albums
+	* Any Traditional European music (besides Tchaikovsky, there is enough of that)
+	* Pink Floyd - Wish You Were Here
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
 	* Pink Floyd albums other than Dark Side (Wish You Were Here, especially) [NJ]
