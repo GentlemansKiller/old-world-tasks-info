@@ -59,7 +59,7 @@
 * Disk film for little Kodak cameras EJ and NJ have
 
 ## VCR/VHS
-### VCRs are a priority one. Get as many as possible, prioritizing better brands/clean ones
+### VCRs are a priority one. Get as many as possible, prioritizing better brands/clean ones. Right now my priority is a MADE IN JAPAN VCR. Fisher brand?	
 * Good brands:
 	* SONY
 	* Emerson (meh, cheap)
@@ -133,6 +133,7 @@
   * The Mahavishnu Orchestra - Inner Mounting Flame
   * Alan Parsons Project - 70's albums
   * Blue Oyster Cult 70s albums (VIP)
+  * Giorgio Moroder. Look up song Chase, and album Midnight Express
 * Modern Vinyls:
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
