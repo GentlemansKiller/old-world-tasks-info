@@ -65,15 +65,16 @@
 	* Emerson (meh, cheap)
 	* Panasonic
 	* Pioneer? (look up if they ever made any)
+	* Hitachi
 * Tapes to get:
 	* PRIORITY: Brand new VHS tapes. Pretty much any, even if the content isn't interesting
-	* ELO out of the blue concert, opened (already have brand new) (NJ)
-	* South Park Season 1 (NJ)
+	* South Park Season 1 all volumes (have 1 and 2 already) (NJ)
 	* Star Trek Original Series episodic tapes. Episodes left to get: (populate here when ready)
 	* Star Trek original VHS movie releases. Left to get: I, V, VI
 	* Star Trek Next Generation episodic tapes
+	* Matrix Reloaded and Matrix Revolutions (NJ)
 
-## Cassette(audio) and tape decks
+## Cassette (audio) and tape decks
 * Good brands to prioritize:
 	* Pioneer
 	* Sansui
@@ -154,6 +155,6 @@
 * Resources (good links, books, etc):
 	* [Interesting forum thread about quad turntable stuff](http://www.audiokarma.org/forums/index.php?threads/quadraphonic-turntable.418222/)
 	* [Quad vinyl formats (pretty much a required read)](https://en.wikipedia.org/wiki/Quadraphonic_sound#Matrix_vinyl_formats)
-	* [Bit of a normie ebay search, but a good go-to(classical quad vinyls)] (https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
+	* [Bit of a normie ebay search, but a good go-to (classical quad vinyls)](https://www.ebay.com/b/Symphony-Classical-Quadraphonic-Vinyl-Records/176985/bn_18793707)
 	* [Master list of all known quad 8 tracks](http://www.8-track-shack.com/blog/quadraphonic-8-track-tape-master-list-with-price-guide/)
 	* [Really good article about difference between matrixed and discrete version of Dark Side tape, and quad tapes in general](https://www.quadraphonicquad.com/QQ-PFQ.htm)
