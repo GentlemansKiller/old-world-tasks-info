@@ -104,6 +104,8 @@
 * Head East - Flat as a Pankcake
 * Alan Parsons Project - 70's albums
 * The Guess Who - 60's and 70's albums (rn looking at American Woman)
+* Pink Floyd - Meddle, Obscured By Clouds, Animals
+* Dio - Holy Diver
 
 ## 8 track and decks
 * BLANK TAPES
