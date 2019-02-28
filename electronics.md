@@ -73,6 +73,11 @@
 	* Star Trek original VHS movie releases. Left to get: I, V, VI
 	* Star Trek Next Generation episodic tapes
 	* Matrix Reloaded and Matrix Revolutions (NJ)
+* Super VHS (mini project??)
+	* [Wiki](https://en.wikipedia.org/wiki/S-VHS)
+	* JVC HR-S7000 and HR-S7100U VCRs
+	* Find blank S-VHS and S-VHS-C
+	* Find S-VHS movies and media
 
 ## Cassette (audio) and tape decks
 * Good brands to prioritize:
