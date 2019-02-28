@@ -78,6 +78,10 @@
 	* JVC HR-S7000 and HR-S7100U VCRs
 	* Find blank S-VHS and S-VHS-C
 	* Find S-VHS movies and media
+* Betamax project:
+	* Find player
+	* Movies/media (Star Trek?)
+	* Blank tapes
 
 ## Cassette (audio) and tape decks
 * Good brands to prioritize:
