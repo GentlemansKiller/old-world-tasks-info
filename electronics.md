@@ -73,6 +73,7 @@
 	* Star Trek original VHS movie releases. Left to get: I, V, VI
 	* Star Trek Next Generation episodic tapes
 	* Matrix Reloaded and Matrix Revolutions (NJ)
+	* ELO Out of the Blue concert
 * Super VHS (mini project??)
 	* [Wiki](https://en.wikipedia.org/wiki/S-VHS)
 	* JVC HR-S7000 and HR-S7100U VCRs
@@ -159,6 +160,7 @@
 * 8 TRACK get list:
 	* Grand Funk Railroad albums
 	* The Guess Who Albums
+	* Herb Albert and the Tiuana Brass
 	* Any Traditional European music (besides Tchaikovsky, there is enough of that)
 * VINYL get list:
 	* ANYTHING traditional european. I feel as though these will be gems in the collection. I know that the quadraphonic abilities will be even more astonishing with music that is so complex with so many orchestral instruments. I cannot stress this enough. [NJ]
