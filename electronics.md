@@ -98,7 +98,6 @@
     * Blue Oyster Cult - Cult Classic (90s cover/compilation album of greatest hits)
     * Nazareth Hair of the Dog
 * Cassettes to bootleg:
-  * Windows96 - One Hundred Mornings
   * Macintosh Plus - Floral Shoppe [good reference vid](https://www.youtube.com/watch?v=ZPfWbXFfXxw)
   * Saint Pepsi - Hit Vibes
   
@@ -148,6 +147,7 @@
   * Blue Oyster Cult 70s albums (VIP)
   * Giorgio Moroder. Look up song Chase, and album Midnight Express
   * Pink Floyd - Meddle
+  * something from Moderat
 * Modern Vinyls:
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
