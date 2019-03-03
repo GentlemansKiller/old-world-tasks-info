@@ -145,13 +145,12 @@
   * The Mahavishnu Orchestra - Inner Mounting Flame
   * Alan Parsons Project - 70's albums
   * Blue Oyster Cult 70s albums (VIP)
-  * Giorgio Moroder. Look up song Chase, and album Midnight Express
   * Pink Floyd - Meddle
   * something from Moderat
 * Modern Vinyls:
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
-  * Royksopp - The Understanding album and The Inevitable End album
+  * Royksopp - The Understanding album and The Inevitable End album (modern) [NJ]
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
