@@ -61,13 +61,14 @@
 * Disk film for little Kodak cameras EJ and NJ have
 
 ## VCR/VHS
-### VCRs are a priority one. Get as many as possible, prioritizing better brands/clean ones. Right now my priority is a MADE IN JAPAN VCR. Fisher brand?	
+### VCRs are a priority one. Get as many as possible, prioritizing better brands/clean ones. Right now my priority is a MADE IN JAPAN VCR.
 * Good brands:
 	* SONY
 	* Emerson (meh, cheap)
 	* Panasonic
 	* Pioneer? (look up if they ever made any)
 	* Hitachi
+	* Fisher
 * Tapes to get:
 	* PRIORITY: Brand new VHS tapes. Pretty much any, even if the content isn't interesting
 	* South Park Season 1 all volumes (have 1 and 2 already) (NJ)
