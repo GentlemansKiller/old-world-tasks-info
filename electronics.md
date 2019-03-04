@@ -31,6 +31,8 @@
 	* 3.5 in floppy
 	* 5.25 in floppy
 	* need tower of size "AT"
+	* [Microsoft PS/2 Ergonomic Natural Keyboard Elite](https://en.wikipedia.org/wiki/Microsoft_ergonomic_keyboards)
+	* [Microsoft PS/2 IntelliMouse (w/ pic)](https://www.computerhope.com/jargon/i/intellim.htm)
 * IBM 510CS laptop
 	* broken screen
 	* needs battery
