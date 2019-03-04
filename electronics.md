@@ -99,6 +99,7 @@
     * ELO albums (Out of the Blue, Discovery, Time) [NJ]
     * Blue Oyster Cult - Cult Classic (90s cover/compilation album of greatest hits)
     * Nazareth Hair of the Dog
+	* Rhapsody - Legendary Tales, Symphony of Enchanted Lands, Rain of a Thousand Flames
 * Cassettes to bootleg:
   * Macintosh Plus - Floral Shoppe [good reference vid](https://www.youtube.com/watch?v=ZPfWbXFfXxw)
   * Saint Pepsi - Hit Vibes
