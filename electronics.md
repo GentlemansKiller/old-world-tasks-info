@@ -112,7 +112,6 @@
 * Styx
 * Aerosmith - first three albums, especially Toys In The Attic (1975)
 * Doobie Brothers albums (70s)
-* Peter Frampton - Frampton Comes Alive! (70s)
 * Head East - Flat as a Pankcake
 * Alan Parsons Project - 70's albums
 * The Guess Who - 60's and 70's albums (rn looking at American Woman)
@@ -150,6 +149,7 @@
   * Blue Oyster Cult 70s albums (VIP)
   * Pink Floyd - Meddle
   * something from Moderat
+  * Peter Frampton - Frampton Comes Alive! (70s)
 * Modern Vinyls:
   * Com Truise - In Decay (modern) [NJ]
   * Com Truise - Iteration, other color options (modern) [NJ]
