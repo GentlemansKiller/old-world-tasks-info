@@ -49,6 +49,7 @@
 ## PC Games
 * DOOM
 * Valve Orange Box
+* MS Flight Simulator
 
 ## Nintendo 64
 * Translucent Green and Purple consoles and controllers
