@@ -25,7 +25,7 @@
 * Look for more tube TVs. Analog TVs. Maybe try to find a nice 1960s black and white TV as well. The older the better. Collect as many as possible
 * Tube computer monitors. For Windows98 desktop project as well. Preferably ones from before the year 2000
 
-## Computer Projects
+## Projects
 * Old Desktop designed to run with windows 98
 	* "high end" graphics
 	* 3.5 in floppy
@@ -38,6 +38,10 @@
 	* needs battery
 * Pocket computer project?
 	* Sharp brand, Mobilon, HC-4500 possible model
+* Full length Ocarina of Time and Majora's Mask playthrough on VHS tape
+	* Probably need to run the n64 video output through the VCR in order to record
+	* Other games? Earthbound, Mario 64
+	* SVHS for maximum quality?
 
 ## PC Software
   * Encarta Encyclopedia
