@@ -25,6 +25,9 @@
 * Look for more tube TVs. Analog TVs. Maybe try to find a nice 1960s black and white TV as well. The older the better. Collect as many as possible
 * Tube computer monitors. For Windows98 desktop project as well. Preferably ones from before the year 2000
 
+## Cables
+* Mogami RCA/3.5mm and RCA/RCA audio cables. Super HQ Made in Japan.
+
 ## Projects
 * Old Desktop designed to run with windows 98
 	* "high end" graphics
