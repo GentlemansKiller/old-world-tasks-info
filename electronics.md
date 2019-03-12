@@ -166,7 +166,10 @@
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
-* Pretty much any good 8 track decks, capable amps/receivers, and turntable equipment
+* Priority above all right now: Quadraphonic reel-to-reel. Is Akai worth it? Maybe Pioneer deck
+* Recievers/Amps:
+	* Pioneer QX-8000a (what NJ has right now)
+	* Sansui Models QRX-9001, QRX-8001, QRX-999 [(info)](http://www.qrxrestore.com/services/)
 * 8 TRACK get list:
 	* Grand Funk Railroad albums
 	* The Guess Who Albums
