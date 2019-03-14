@@ -159,6 +159,7 @@
   * Boston - Boston
   * The Whispers - Imagination (1980)
   * The Whispers - some kind of Greatest Hits album would be good [NJ]
+  * The Whispers - [And the beat goes on 12 inch version](https://www.youtube.com/watch?v=pA6QsecZ2jw)
   * Kansas - Leftoverture
   * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
   * ELO - Out of the Blue -  blue colored vinyl version [NJ]
