@@ -21,6 +21,12 @@
 * vise grips
 * set of qtr and 3/8 drives sockets ratchets.
 
+## General Service/Cleaning (all):
+* De-oxidizing spray for inside of knobs on components and receivers
+* Allsop Cassette head cleaning scrubbing kit
+* Allsop 8 Track Head Cleaner kit? Or else other brand
+* Long cotton swabs
+
 ## Video
 * Look for more tube TVs. Analog TVs. Maybe try to find a nice 1960s black and white TV as well. The older the better. Collect as many as possible
 * Tube computer monitors. For Windows98 desktop project as well. Preferably ones from before the year 2000
