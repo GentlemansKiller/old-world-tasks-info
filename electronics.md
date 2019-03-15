@@ -160,21 +160,23 @@
   * The Whispers - Imagination (1980)
   * The Whispers - some kind of Greatest Hits album would be good [NJ]
   * The Whispers - [And the beat goes on 12 inch version](https://www.youtube.com/watch?v=pA6QsecZ2jw)
-  * Kansas - Leftoverture
+  * Kansas - Leftoverture [NJ]
   * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
   * ELO - Out of the Blue -  blue colored vinyl version [NJ]
   * The Mahavishnu Orchestra - Inner Mounting Flame
   * Alan Parsons Project - 70's albums
-  * Blue Oyster Cult 70s albums (VIP)
-  * Pink Floyd - Meddle
-  * something from Moderat
+  * Blue Oyster Cult 70s albums (VIP) [NJ]
+  * Pink Floyd - Meddle [NJ]
   * Peter Frampton - Frampton Comes Alive! (70s)
   * Something from Jean-Luc Ponty (Enigmatic Ocean?) (70s) [NJ]
   * Bee Gees - Saturday Night Fever OST
+  * McFadden & Whitehead - Ain't No Stoppin' Us Now (12" PROMO) [NJ]
 * Modern Vinyls:
   * Com Truise - In Decay [NJ]
+  * Com Truise - Cyanide Sisters (blue vinyl) [NJ]
   * Com Truise - Iteration, other color options [NJ]
   * Royksopp - The Understanding album and The Inevitable End album [NJ]
+  * something from Moderat [NJ]
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
