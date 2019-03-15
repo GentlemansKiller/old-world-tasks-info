@@ -172,9 +172,9 @@
   * Something from Jean-Luc Ponty (Enigmatic Ocean?) (70s) [NJ]
   * Bee Gees - Saturday Night Fever OST
 * Modern Vinyls:
-  * Com Truise - In Decay (modern) [NJ]
-  * Com Truise - Iteration, other color options (modern) [NJ]
-  * Royksopp - The Understanding album and The Inevitable End album (modern) [NJ]
+  * Com Truise - In Decay [NJ]
+  * Com Truise - Iteration, other color options [NJ]
+  * Royksopp - The Understanding album and The Inevitable End album [NJ]
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
