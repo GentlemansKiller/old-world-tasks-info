@@ -41,33 +41,36 @@
 	* 5.25 in floppy
 	* need tower of size "AT"
 	* [Microsoft PS/2 Ergonomic Natural Keyboard Elite](https://en.wikipedia.org/wiki/Microsoft_ergonomic_keyboards)
-	* [Microsoft PS/2 IntelliMouse (w/ pic)](https://www.computerhope.com/jargon/i/intellim.htm)
+	* [Microsoft PS/2 IntelliMouse (w/ pic)](https://www.computerhope.com/jargon/i/intellim.htm) [Have!]
 * IBM 510CS laptop
 	* broken screen
 	* needs battery
 * Pocket computer project?
-	* Sharp brand, Mobilon, HC-4500 possible model
+	* Sharp brand, Mobilon, HC-4500 possible model, Windows CE
 * Full length Ocarina of Time and Majora's Mask playthrough on VHS tape
 	* Probably need to run the n64 video output through the VCR in order to record
 	* Other games? Earthbound, Mario 64
 	* SVHS for maximum quality?
 
 ## PC Software
-  * Encarta Encyclopedia
+  * Encarta Encyclopedia 98
   * Microsoft Publisher
-  * Microsoft Bookshelf
+  * Microsoft Bookshelf 98
   * Microsoft Office 95/98
   * Visual Basic 5/6
 
 ## PC Games
 * DOOM
-* Valve Orange Box
+* Valve Orange Box (Half Life, etc)
 * MS Flight Simulator
 
-## Nintendo 64
+## Game Consoles
+### Nintendo 64
 * Translucent Green and Purple consoles and controllers
 * Consoles, ofc
 * Paks (controller pak, rumble pak)
+### PS1
+* Silent Hill games
 
 ## Cameras
 * A small camcorder that takes VHS-C
@@ -138,8 +141,8 @@
 * BLANK TAPES
 * Good brands to prioritize:
 	* Pioneer
-	* Sansui
-	* Marantz
+	* Akai
+	* Technics
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Stereo 8 tracks to get:
@@ -182,9 +185,11 @@
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
 * Priority above all right now: Quadraphonic reel-to-reel. Is Akai worth it? Maybe Pioneer deck
-* Recievers/Amps:
-	* Pioneer QX-8000a (what NJ has right now)
-	* Sansui Models QRX-9001, QRX-8001, QRX-999 [(info)](http://www.qrxrestore.com/services/)
+* Recievers/Amps/Decks:
+	* Pioneer QX-8000a reciever (what NJ has right now)
+	* Sansui Models QRX-9001, QRX-8001, QRX-999 recievers [(info)](http://www.qrxrestore.com/services/)
+	* Akai CR-80D-SS quad 8 track deck
+	* Technics RS-858US quad 8 track deck
 * 8 TRACK get list:
 	* Grand Funk Railroad albums
 	* The Guess Who Albums
