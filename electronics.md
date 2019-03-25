@@ -94,6 +94,8 @@
 	* Star Trek Next Generation episodic tapes
 	* Matrix Reloaded and Matrix Revolutions (NJ)
 	* ELO Out of the Blue concert
+	* ANIME - Neon Genesis Evangelion
+	* ANIME - Ghost in the Shell movie
 * Super VHS (mini project??)
 	* [Wiki](https://en.wikipedia.org/wiki/S-VHS)
 	* JVC HR-S7000 and HR-S7100U VCRs
