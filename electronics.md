@@ -51,6 +51,11 @@
 	* Probably need to run the n64 video output through the VCR in order to record
 	* Other games? Earthbound, Mario 64
 	* SVHS for maximum quality?
+* Gameboy 8-bit music
+	* Use gameboy color (or original, not sure) as instrument (look up youtube videos and [Kommisar](https://www.youtube.com/channel/UCSCfMeQyjce3xHG4Xas7IYg))
+	* [LSDJ software](https://www.littlesounddj.com)
+	* Record onto cassette, or even quadraphonic 8 track
+
 
 ## PC Software
   * Encarta Encyclopedia 98
