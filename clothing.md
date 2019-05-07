@@ -1,0 +1,6 @@
+# CLOTHING
+
+## 70's
+* Tie dye shirts
+* Bell bottoms
+* Slim at the top, loose at the bottom
