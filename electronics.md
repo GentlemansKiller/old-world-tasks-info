@@ -56,6 +56,8 @@
 	* [LSDJ software](https://www.littlesounddj.com)
 	* Record onto cassette, or even quadraphonic 8 track
 
+## PC Hardware
+* https://en.wikipedia.org/wiki/Floppy_disk#/media/File:Usb_floppy_drive.jpg   Immitation floppy disk drive that takes high density disks. Check if current drive does the same first tho
 
 ## PC Software
   * Encarta Encyclopedia 98
