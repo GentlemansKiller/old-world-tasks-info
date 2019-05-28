@@ -163,9 +163,13 @@
 * 8 track album projects:
 	* Com Truise - Iteration (get pink 8 track case)
 	* Com Truise - Galactic Melt (get orange 8 track)
-	* Com Truise - In Decay (green 8 track?)
+	* Com Truise - In Decay (yellow 8 track?)
+	* Com Truise - Persuasion System (blue 8 track, preferable lighter blue, or else purple)
+	* Com Truise - Silicon Tare (black 8 track)
+	* Com Truise - Wave 1 (green 8 track case)
+	* Com Truise - Cyanide Sisters (White 8 track)
 * Other/Resources (links, books, etc):
-	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++. Please look at, Elijah. Let's study this so we can be good at it in the near future)](http://www.barrys8trackrepair.com)
+	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++)](http://www.barrys8trackrepair.com)
 	* [My go-to site](https://sites.google.com/site/8trackrepair/getting-started)
 
 ## Vinyl/LP and Turntables
