@@ -131,6 +131,7 @@
   * Macintosh Plus - Floral Shoppe [good reference vid](https://www.youtube.com/watch?v=ZPfWbXFfXxw)
   * Saint Pepsi - Hit Vibes
   * Camino84 - Yacht Rock Breaks (first one)
+  * (Not a bootleg but neat) Memorex Memories mixtape. Memorex brand blank cassette. Put all my fave tracks on it :D
   
 ## Tape Albums to get (8 track and/or cassette both)
 * Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
