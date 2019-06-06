@@ -6,7 +6,6 @@
 * Initials on preferences, priorities at the top
 
 ## Tools to get:
-* Solder pen/gun
 * Vintage screwdrivers
 * Made in USA drills
 * Circuit board cleaner
@@ -20,6 +19,7 @@
 * wire cutters
 * vise grips
 * set of qtr and 3/8 drives sockets ratchets.
+* leather gloves made in usa
 
 ## General Service/Cleaning (all):
 * De-oxidizing spray for inside of knobs on components and receivers
@@ -148,7 +148,7 @@
 * Dio - Holy Diver
 
 ## 8 track and decks
-* BLANK TAPES
+* BLANK TAPES. Realistic brand SUPERTAPE is a good tape for very high quality 8 tracks
 * Good brands to prioritize:
 	* Pioneer
 	* Akai
