@@ -83,6 +83,7 @@
 * A small camcorder that takes VHS-C
 * Large VHS camcorder from the 80s (another Hitachi?)
 * Disk film for little Kodak cameras EJ and NJ have
+* XL55 movie camera (Super 8 film)
 
 ## VCR/VHS
 ### VCRs are a priority one. Get as many as possible, prioritizing better brands/clean ones. Right now my priority is a MADE IN JAPAN VCR.
@@ -100,9 +101,9 @@
 	* Star Trek original VHS movie releases. Left to get: I, V, VI
 	* Star Trek Next Generation episodic tapes
 	* Matrix Reloaded and Matrix Revolutions (NJ)
-	* ELO Out of the Blue concert
-	* ANIME - Neon Genesis Evangelion
-	* ANIME - Ghost in the Shell movie
+	* ANIME - Neon Genesis Evangelion (NJ)
+	* ANIME - Ghost in the Shell movie (NJ)
+	* McDonald's 90s kids movies
 * Super VHS (mini project??)
 	* [Wiki](https://en.wikipedia.org/wiki/S-VHS)
 	* JVC HR-S7000 and HR-S7100U VCRs
@@ -126,7 +127,8 @@
     * ELO albums (Out of the Blue, Discovery, Time) [NJ]
     * Blue Oyster Cult - Cult Classic (90s cover/compilation album of greatest hits)
     * Nazareth Hair of the Dog
-	* Rhapsody - Legendary Tales, Symphony of Enchanted Lands, Rain of a Thousand Flames
+	* Rhapsody - Legendary Tales, Rain of a Thousand Flames
+	* * Kansas - Point of Know Return
 * Cassettes to bootleg:
   * Macintosh Plus - Floral Shoppe [good reference vid](https://www.youtube.com/watch?v=ZPfWbXFfXxw)
   * Saint Pepsi - Hit Vibes
@@ -137,14 +139,10 @@
 * Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
 * Blue Oyster Cult early 70s albums
 * Aerosmith - first three albums, especially Toys In The Attic (1975)
-* Kansas - Point of Know Return, Leftoverture [NJ]
-* Styx
-* Aerosmith - first three albums, especially Toys In The Attic (1975)
-* Doobie Brothers albums (70s)
-* Head East - Flat as a Pankcake
-* Alan Parsons Project - 70's albums
+* Aerosmith - first three albums, not Toys
+* Doobie Brothers albums (70s) stereo
 * The Guess Who - 60's and 70's albums (rn looking at American Woman)
-* Pink Floyd - Meddle, Obscured By Clouds, Animals
+* Pink Floyd - Obscured By Clouds, Animals
 * Dio - Holy Diver
 
 ## 8 track and decks
@@ -156,10 +154,10 @@
 	* anything made in Japan
 	* Panasonic (middle of the road but still good)
 * Stereo 8 tracks to get:
-  * Ole ELO
   * America - History (Greatest Hits)
-	* Steve Miller Greatest
-* 8 track album projects:
+  * Steve Miller Greatest
+  * Peter Frampton - Frampton Comes Alive! (70s)
+* 8 track album bootleg? projects:
 	* Com Truise - Iteration (get pink 8 track case)
 	* Com Truise - Galactic Melt (get orange 8 track)
 	* Com Truise - In Decay (yellow 8 track?)
@@ -168,40 +166,36 @@
 	* Com Truise - Wave 1 (green 8 track case)
 	* Com Truise - Cyanide Sisters (White 8 track)
 * Other/Resources (links, books, etc):
-	* [Barry's 8 Track Repair (good site, reference point for learning to care for tapes A+++)](http://www.barrys8trackrepair.com)
+	* [Barry's 8 Track Repair (decent site, more infor on players themselves, and repair services)](http://www.barrys8trackrepair.com)
 	* [My go-to site](https://sites.google.com/site/8trackrepair/getting-started)
 
 ## Vinyl/LP and Turntables
 * Turntables:
   * Dual 1200 series
   * Dual 500 series (more so than others)
+  * Pioneer PL-12D
 * Vinyls to get:
+  * Anything with Debussy ;_;
   * Boston - Boston
+  * Boston - Third Stage
   * The Whispers - Imagination (1980)
   * The Whispers - some kind of Greatest Hits album would be good [NJ]
   * The Whispers - [And the beat goes on 12 inch version](https://www.youtube.com/watch?v=pA6QsecZ2jw)
   * Kansas - Leftoverture [NJ]
-  * BTO - BTO2, Not Fragile, Four Wheel Drive [NJ]
+  * BTO - BTO, BTO2, Not Fragile, Four Wheel Drive [NJ]
   * ELO - Out of the Blue -  blue colored vinyl version [NJ]
   * The Mahavishnu Orchestra - Inner Mounting Flame
-  * Alan Parsons Project - 70's albums
-  * Blue Oyster Cult 70s albums (VIP) [NJ]
   * Pink Floyd - Meddle [NJ]
-  * Peter Frampton - Frampton Comes Alive! (70s)
-  * Something from Jean-Luc Ponty (Enigmatic Ocean?) (70s) [NJ]
-  * Bee Gees - Saturday Night Fever OST
   * McFadden & Whitehead - Ain't No Stoppin' Us Now (12" PROMO) [NJ]
 * Modern Vinyls:
   * Com Truise - In Decay [NJ]
   * Com Truise - Cyanide Sisters (blue vinyl) [NJ]
-  * Com Truise - Iteration, other color options [NJ]
   * Royksopp - The Understanding album and The Inevitable End album [NJ]
   * something from Moderat [NJ]
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
 * Plan on getting one more (Akai?) 8 track quad deck, so that we can record from 8 track to 8 track
-* Priority above all right now: Quadraphonic reel-to-reel. Is Akai worth it? Maybe Pioneer deck
 * Recievers/Amps/Decks:
 	* Pioneer QX-8000a reciever (what NJ has right now)
 	* Sansui Models QRX-9001, QRX-8001, QRX-999 recievers [(info)](http://www.qrxrestore.com/services/)
