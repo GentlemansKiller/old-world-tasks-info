@@ -169,6 +169,9 @@
 * 8 track mixes to make:
 	* Can make them with custom artwork labels
 	* Debussy Favorites (artwork will have a beautiful impressionist painting on the front, and his portrait on the back with the track listing)
+* Odd/Cool colored 8 track albums known:
+	* Olive Green:
+		* The Doors - Other voices
 * Other/Resources (links, books, etc):
 	* [Barry's 8 Track Repair (decent site, more infor on players themselves, and repair services)](http://www.barrys8trackrepair.com)
 	* [My go-to site](https://sites.google.com/site/8trackrepair/getting-started)
