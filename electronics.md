@@ -128,12 +128,12 @@
     * Blue Oyster Cult - Cult Classic (90s cover/compilation album of greatest hits)
     * Nazareth Hair of the Dog
 	* Rhapsody - Legendary Tales, Rain of a Thousand Flames
-	* * Kansas - Point of Know Return
-* Cassettes to bootleg:
+	* Kansas - Point of Know Return
+* Cassettes to bootleg/mix:
   * Macintosh Plus - Floral Shoppe [good reference vid](https://www.youtube.com/watch?v=ZPfWbXFfXxw)
   * Saint Pepsi - Hit Vibes
   * Camino84 - Yacht Rock Breaks (first one)
-  * (Not a bootleg but neat) Memorex Memories mixtape. Memorex brand blank cassette. Put all my fave tracks on it :D
+  * Memorex Memories mixtape. Memorex brand blank cassette. Put all my fave tracks on it :D
   
 ## Tape Albums to get (8 track and/or cassette both)
 * Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
@@ -157,7 +157,7 @@
   * America - History (Greatest Hits)
   * Steve Miller Greatest
   * Peter Frampton - Frampton Comes Alive! (70s)
-* 8 track album bootleg? projects:
+* 8 track album bootleg/projects:
 	* Com Truise - Iteration (get pink 8 track case)
 	* Com Truise - Galactic Melt (get orange 8 track)
 	* Com Truise - In Decay (yellow 8 track?)
@@ -166,6 +166,7 @@
 	* Com Truise - Wave 1 (green 8 track case)
 	* Com Truise - Cyanide Sisters (White 8 track)
 	* Jeff Lynne ELO - Alone in the Universe
+	* Boston - Third Stage
 * 8 track mixes to make:
 	* Can make them with custom artwork labels
 	* Debussy Favorites (artwork will have a beautiful impressionist painting on the front, and his portrait on the back with the track listing)
