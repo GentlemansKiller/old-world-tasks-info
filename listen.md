@@ -5,8 +5,6 @@
     * https://deathsdynamicshroud.bandcamp.com/album/online
     * https://deathsdynamicshroud.bandcamp.com/album/mystic-quest
     * https://deathsdynamicshroud.bandcamp.com/album/rpg
-* 2814
-    * OG and rain temple https://2814.bandcamp.com/
 
 ### Labels
 * https://ailanthusrecordings.bandcamp.com/
