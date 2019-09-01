@@ -204,6 +204,7 @@
   * Com Truise - Cyanide Sisters (blue vinyl) [NJ]
   * Royksopp - The Understanding album and The Inevitable End album [NJ]
   * something from Moderat [NJ]
+  * https://zenithpassage.bandcamp.com/album/cosmic-dissonance-remastered
 
 ## Quadraphonic
 * Right now we have 1 good receiver, and 1 amp that needs a little bit of work. Also the Akai 8 track quad deck
