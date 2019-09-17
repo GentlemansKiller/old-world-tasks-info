@@ -5,6 +5,7 @@
     * https://deathsdynamicshroud.bandcamp.com/album/online
     * https://deathsdynamicshroud.bandcamp.com/album/mystic-quest
     * https://deathsdynamicshroud.bandcamp.com/album/rpg
+* Perturbator albums
 
 ### Labels
 * https://ailanthusrecordings.bandcamp.com/
