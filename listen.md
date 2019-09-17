@@ -5,6 +5,14 @@
     * https://deathsdynamicshroud.bandcamp.com/album/online
     * https://deathsdynamicshroud.bandcamp.com/album/mystic-quest
     * https://deathsdynamicshroud.bandcamp.com/album/rpg
+* VHS MIDNIGHT STYLE - Invisible Classics
+* FM Attack - New World
+* Nite Ride - 2
+* Ace Buchannon - Magenta Nights
+* Deth Omen - War Games
+
+### Artists
+* https://yungbaebae.bandcamp.com/
 * Perturbator albums
 
 ### Labels
