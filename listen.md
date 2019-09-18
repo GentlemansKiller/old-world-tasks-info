@@ -10,6 +10,7 @@
 * Nite Ride - 2
 * Ace Buchannon - Magenta Nights
 * Deth Omen - War Games
+* Knichael Might - Hyperspace
 
 ### Artists
 * https://yungbaebae.bandcamp.com/
