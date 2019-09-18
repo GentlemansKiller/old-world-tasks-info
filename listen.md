@@ -11,10 +11,16 @@
 * Ace Buchannon - Magenta Nights
 * Deth Omen - War Games
 * Knichael Might - Hyperspace
+* https://telefuturenow.bandcamp.com/album/pixel-passion
 
 ### Artists
 * https://yungbaebae.bandcamp.com/
 * Perturbator albums
+* Jeppe "Dynatron" Hasseriis
+* Michaël "Lueur Verte" Brun
+* Jared "CARNOV" Leckie
+* Lucy Black
+* https://arcadehigh.bandcamp.com/
 
 ### Labels
 * https://ailanthusrecordings.bandcamp.com/
