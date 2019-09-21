@@ -21,12 +21,15 @@
 * Jared "CARNOV" Leckie
 * Lucy Black
 * https://arcadehigh.bandcamp.com/
+* https://scandroid.bandcamp.com/music
 
 ### Labels
 * https://ailanthusrecordings.bandcamp.com/
 * https://geometriclullaby.bandcamp.com/
 * https://newretrowave.bandcamp.com
 * https://telefuturenow.bandcamp.com
+* https://plus100.bandcamp.com/music
+* https://kudatah.bandcamp.com/
 
 ### Misc
 * (Good collection to look at)https://www.discogs.com/lists/%EF%BD%96%EF%BD%81%EF%BD%90%EF%BD%8F%EF%BD%92%EF%BD%97%EF%BD%81%EF%BD%96%EF%BD%85-%EF%BD%83%EF%BD%81%EF%BD%93%EF%BD%93%EF%BD%85%EF%BD%94%EF%BD%94%EF%BD%85%EF%BD%93/375191
