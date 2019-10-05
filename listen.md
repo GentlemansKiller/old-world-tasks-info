@@ -14,6 +14,8 @@
 * https://telefuturenow.bandcamp.com/album/pixel-passion
 * https://dreamcatalogue.com/store/product/broken_canyon-the-things-you-did-to-me/
 * https://dreamcatalogue.com/store/product/w-u-s-o-lonely-streets/
+*  マクロスMacross 82-99 ‎– Sailorwave II (maybe buy cassette?
+* Hong Kong Express - 浪漫的夢想 ['Romantic Dream'] (maybe buy cassette?)
 
 ### Artists
 * https://yungbaebae.bandcamp.com/
