@@ -12,18 +12,25 @@
 * Deth Omen - War Games
 * Knichael Might - Hyperspace
 * https://telefuturenow.bandcamp.com/album/pixel-passion
+* https://dreamcatalogue.com/store/product/broken_canyon-the-things-you-did-to-me/
+* https://dreamcatalogue.com/store/product/w-u-s-o-lonely-streets/
 
 ### Artists
 * https://yungbaebae.bandcamp.com/
 * Perturbator albums
+* Anoraak
 * Jeppe "Dynatron" Hasseriis
 * Michaël "Lueur Verte" Brun
 * Jared "CARNOV" Leckie
 * Lucy Black
 * https://arcadehigh.bandcamp.com/
 * https://scandroid.bandcamp.com/music
+* Dokken (metal)
 
 ### Labels
+* Dream Catalogue:
+    * https://dreamcatalogue.bandcamp.com/
+    * https://dreamcatalogue.com/
 * https://ailanthusrecordings.bandcamp.com/
 * https://geometriclullaby.bandcamp.com/
 * https://newretrowave.bandcamp.com
