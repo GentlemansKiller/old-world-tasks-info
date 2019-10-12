@@ -134,7 +134,7 @@
   * Saint Pepsi - Hit Vibes
   * Camino84 - Yacht Rock Breaks (first one)
   * Stratforc Ct. - Sonus Auri compilation album
-  * PJS - Ears (not going to pay 17$ for a damn cassette, sorry buckos!!!!)
+  * PJS - Ears (not going to pay 17$ for a damn cassette, sorry buckos!!!!) [transparent lavender cassette tape]
   * Memorex Memories mixtape. Memorex brand blank cassette. Put all my fave tracks on it :D
 	* Curious Alice
 	* Picture of Purple Skies
