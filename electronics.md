@@ -136,10 +136,8 @@
   * Stratforc Ct. - Sonus Auri compilation album
   * PJS - Ears (not going to pay 17$ for a damn cassette, sorry buckos!!!!) [transparent lavender cassette tape]
   * Memorex Memories mixtape. Memorex brand blank cassette. Put all my fave tracks on it :D
-	* Curious Alice
-	* Picture of Purple Skies
-	* etc
-  
+	* (refer to txt file)
+
 ## Tape Albums to get (8 track and/or cassette both)
 * Anything traditional european, except common folk ones, with titles such as "Claaaaasical Favorites Vol 1" [NJ]
 * Blue Oyster Cult early 70s albums
