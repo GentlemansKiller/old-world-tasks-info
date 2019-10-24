@@ -33,6 +33,7 @@
 * https://scandroid.bandcamp.com/music
 * Dokken (metal)
 * Rozen (mm album and others)
+* Theophany (make sure to have both MM)
 
 ### Labels
 * Dream Catalogue:
