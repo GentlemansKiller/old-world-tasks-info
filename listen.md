@@ -35,6 +35,7 @@
 * Rozen (mm album and others)
 * Theophany (make sure to have both MM)
 * Velf (orange milk)
+* Cormorant band (death metal, blood music)
 
 ### Labels
 * Dream Catalogue:
